@@ -1,11 +1,11 @@
 ﻿{
   "product": "AEROFOLIO",
   "channel": "stable",
-  "latest": "23.1.1",
+  "latest": "23.2.0",
   "minimum_supported": "23.0.0",
-  "package_url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/releases/AEROFOLIO_V23.1.1.zip",
-  "sha256": "9661D427146434BE558377E93B3F3683BB7BDB557CE445DED5F59FCC039170CA",
+  "package_url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/releases/AEROFOLIO_V23.2.0.zip",
+  "sha256": "CDD35128B8BD717F00AE761C3CEA7D0B20CDED7AB3F89269E5161BC5C89C8843",
   "mandatory": false,
-  "notes": "Sticky Poster und separate Steuerung fuer Titel, Standort und Koordinaten.",
+  "notes": "Remote-Updater, SHA-256-Pruefung, Backup/Rollback und dynamische Versionsanzeige.",
   "asset_manifest_url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/manifest.json"
 }
