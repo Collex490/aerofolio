@@ -1,11 +1,11 @@
 ﻿{
     "product":  "AEROFOLIO",
     "channel":  "stable",
-    "latest":  "0.23.2.7",
+    "latest":  "0.23.2.8",
     "minimum_supported":  "0.23.2.3",
-    "package_url":  "https://raw.githubusercontent.com/Collex490/aerofolio/main/releases/AEROFOLIO_0.23.2.7.zip",
-    "sha256":  "D20F6FAC696186661EA266B6FD844EC2579F61C299B3E06ADF77716D6710679A",
+    "package_url":  "https://raw.githubusercontent.com/Collex490/aerofolio/main/releases/AEROFOLIO_0.23.2.8.zip",
+    "sha256":  "D4F4E72CB772B2D82578D9E9E7DE23F7C65AE9713467DD2B1448EC57281B92AA",
     "mandatory":  false,
-    "notes":  "AEROFOLIO Release 0.23.2.7",
+    "notes":  "AEROFOLIO Release 0.23.2.8",
     "asset_manifest_url":  "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/manifest.json"
 }
