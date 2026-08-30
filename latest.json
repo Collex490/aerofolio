@@ -1,11 +1,11 @@
 ﻿{
-  "product": "AEROFOLIO",
-  "channel": "stable",
-  "latest": "23.2.2",
-  "minimum_supported": "23.0.0",
-  "package_url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/releases/AEROFOLIO_V23.2.2.zip",
-  "sha256": "E4963E0E7A6F8DD3C50E469ADFC84B33F55178CFC5F1ED0E9CA4910A24776027",
-  "mandatory": false,
-  "notes": "Remote-Update-Test auf 23.2.2.",
-  "asset_manifest_url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/manifest.json"
+    "product":  "AEROFOLIO",
+    "channel":  "stable",
+    "latest":  "23.2.3",
+    "minimum_supported":  "23.0.0",
+    "package_url":  "https://raw.githubusercontent.com/Collex490/aerofolio/main/releases/AEROFOLIO_0.23.2.3.zip",
+    "sha256":  "4A9E76FFBEA696DEB0AF61271A18340E6F1885F20334280E843734088E5F9B98",
+    "mandatory":  false,
+    "notes":  "AEROFOLIO Release 0.23.2.3",
+    "asset_manifest_url":  "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/manifest.json"
 }
