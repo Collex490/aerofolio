@@ -1,0 +1,11 @@
+﻿{
+  "product": "AEROFOLIO",
+  "channel": "stable",
+  "latest": "23.0.0",
+  "minimum_supported": "23.0.0",
+  "package_url": "",
+  "sha256": "",
+  "mandatory": false,
+  "notes": "Initial AEROFOLIO update manifest",
+  "asset_manifest_url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/manifest.json"
+}
