@@ -1,4 +1,49 @@
-﻿{
+{
+  "version": 1,
+  "assets": [
+    {
+      "key": "A20N",
+      "type": "aircraft",
+      "path": "aircraft/base/A20N_base.png",
+      "url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/aircraft/base/A20N_base.png",
+      "sha256": "361c218cf0756eae4c8ccb812685ea67f245fed7a8045520b6606d8ddc394849"
+    },
+    {
+      "key": "A21N",
+      "type": "aircraft",
+      "path": "aircraft/base/A21N_base.png",
+      "url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/aircraft/base/A21N_base.png",
+      "sha256": "982c261b28d51fa25ffdce4b865f73f36d00b5a81a6d03d93ddeb08f8e3bc328"
+    },
+    {
+      "key": "A319",
+      "type": "aircraft",
+      "path": "aircraft/base/A319_base.png",
+      "url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/aircraft/base/A319_base.png",
+      "sha256": "02a169fbdd4cdf0c230e209d9292c4ad0f0952bf165ce408730047a03ddab134"
+    },
+    {
+      "key": "B738",
+      "type": "aircraft",
+      "path": "aircraft/base/B738_base.png",
+      "url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/aircraft/base/B738_base.png",
+      "sha256": "5d73138db00b2b2d40de5b184e4713dd0fa7b452ff6a1df837f7c16301b531d6"
+    },
+    {
+      "key": "B77L",
+      "type": "aircraft",
+      "path": "aircraft/base/B77L_base.png",
+      "url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/aircraft/base/B77L_base.png",
+      "sha256": "0f05b96be5482c0efb164469ec1d3b897d73bca5040cd86a002b5e0bf0ab49d0"
+    },
+    {
+      "key": "M20T",
+      "type": "aircraft",
+      "path": "aircraft/base/M20T_base.png",
+      "url": "https://raw.githubusercontent.com/Collex490/aerofolio/main/assets/aircraft/base/M20T_base.png",
+      "sha256": "9664aefc05fa448365a386f096d6c8e8dbde11f53fb0ead7a1369d29d9e54f50"
+    }
+  ],
   "aircraft_bases": [],
   "liveries": [],
   "logos": []
